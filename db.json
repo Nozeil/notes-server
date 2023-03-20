@@ -4,7 +4,9 @@
       "id" : 0,
       "title": "Note title",
       "content" : "Note content",
-      "tags": "Note tags"
+      "tags": {
+        "noteTag": "#noteTag"
+      }
     }
   ]
 }
